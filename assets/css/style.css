@@ -1,0 +1,194 @@
+
+ 
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+
+@-ms-viewport {
+  width: device-width; }
+ 
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #76838f;
+  text-align: left;
+  background-color: #F3F3F9; }
+
+ 
+ 
+
+
+
+a {
+  color: #7571f9;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects; }
+  a:hover {
+    color: #2e28f6;
+    text-decoration: underline; }
+
+ 
+
+
+table {
+  border-collapse: collapse; }
+
+caption {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  color: #8898aa;
+  text-align: left;
+  caption-side: bottom; }
+
+th {
+  text-align: inherit; }
+
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem; }
+
+button {
+  border-radius: 0; }
+
+button:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focus-ring-color; }
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit; }
+
+button,
+input {
+  overflow: visible; }
+
+ 
+ 
+  .alert-danger {
+    color: #853131;
+    background-color: #ffdfdf;
+    border-color: #ffd2d2;
+}
+.alert-success {
+    color: #3a713a;
+    background-color: #e2f7e2;
+    border-color: #d7f4d7;
+}
+.alert-dismissible {
+    padding-right: 3.8125rem;
+}
+.alert {
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+.fade {
+    transition: opacity 0.15s linear;
+}
+ 
+.table td, .table th {
+  border-color: #f3f3f3;
+}
+
+.table th, .table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+th {
+  text-align: inherit;
+}
+.verticle-middle tr td {
+  vertical-align: middle;
+}
+
+.table td, .table th {
+  border-color: #f3f3f3;
+}
+.table td {
+  line-height: 1.2;
+  vertical-align: middle;
+}
+.table th, .table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+.login-form__btn.submit {
+  padding: 15px 40px;
+  background: #7571f9;
+  font-weight: 700;
+}
+.btn {
+  padding: 7px 18px;
+}
+.login-form__btn {
+  background: #455F98;
+  color: #fff;
+  padding: 13px 40px;
+  font-size: 14px;
+}
+
+
+.card {
+  margin-bottom: 30px;
+  box-shadow: rgb(169, 157, 231) 6px 11px 41px -28px;
+  border-width: 0px;
+  border-style: initial;
+  border-color: initial;
+  border-image: initial;
+  border-radius: 0.625rem;
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0px;
+  overflow-wrap: break-word;
+  background-color: rgb(255, 255, 255);
+  background-clip: border-box;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.125);
+  border-image: initial;
+  border-radius: 0.25rem;
+}
+.card .card-body {
+  padding: 1.88rem 1.81rem;
+}
+.form-input-content {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.login-input .form-group {
+  margin-bottom: 30px;
+}
+
+.updateBtn,.home_{margin-right: 25px;}
+.login-form-bg{height: 100vh !important;}
+.btn:hover{color:#fff !important;}
