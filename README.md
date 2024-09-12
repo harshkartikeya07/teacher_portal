@@ -10,7 +10,7 @@ After this import the teacher_portal.sql this is in root directory
 
 Step 4 clone this project folder and goto the xampp folder there is htdocs folder upload the all files
 
-Step 5 Then run the http://localhost/teacher_panel/   
+Step 5 Then run the http://localhost/teacher_portal/ (folder name after localhost)   
 
 Step 6 After run this url showing login page 
 
