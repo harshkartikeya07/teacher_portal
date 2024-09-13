@@ -8,7 +8,7 @@ RUn Command Line CREATE DATABASE teacher_portal; in console of xampp
 Step 3
 After this import the teacher_portal.sql this is in root directory 
 
-Step 4 clone this project folder and goto the xampp folder there is htdocs folder upload the all files
+Step 4 clone this project folder and goto the xampp folder there is htdocs folder in this folder create (teacher_portal) folder  upload the all files in this folder (teacher_portal)
 
 Step 5 Then run the http://localhost/teacher_portal/ (folder name after localhost)   
 
